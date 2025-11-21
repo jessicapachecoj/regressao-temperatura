@@ -60,7 +60,7 @@ Ponto Roxo: Valor real observado para 2014.
 
 **5. TECNOLOGIAS E FERRAMENTAS**
 
-Linguagem: Octave (utilizado para o código de modelagem e lógica de programação).
+Linguagem: Octave/MATLAB (utilizado para o código de modelagem e lógica de programação).
 
 Biblioteca: pkg load io para manipulação de arquivos de dados (Excel).
 
